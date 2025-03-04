@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-<a href="https://www.linkedin.com/in/abbbdullah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abbbdullah" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/abbbdullah" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abbbdullah" height="30" width="30" /></a>
 </p>
 
 ### 💻 Languages:
