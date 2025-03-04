@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Zulqarnain 👋
+# Hi, I'm Zeeshan Ahmed 👋
 
-🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in PERN<br>
+🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in MERN<br>
 
 
   
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ### 🛢 Databases:
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Microsoft Dataverse" src="https://img.shields.io/badge/Microsoft%20Dataverse-0078D4?style=flat-square&logo=dataverse&logoColor=white" />
 </p>
 
 ### 🔧 Tools:
@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 </p>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mwarsi2784&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&card_width=495)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mwarsi2784&theme=gotham&hide_border=false&card_width=495)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mwarsi2784&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&card_width=495&access_token=MY_GITHUB_TOKEN)
+![](https://github-readme-stats.vercel.app/api?username=zShan98&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&card_width=495)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=gotham&hide_border=false&card_width=495)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zShan98&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&card_width=495&access_token=MY_GITHUB_TOKEN)
 
 ### 📈 Codeforces Stats:
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mwarsi2784&theme=gotham)
