@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<a href="https://www.linkedin.com/in/zshan10" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abbbdullah" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/zshan10" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abbbdullah" height="30" width="30" />
 </p>
+    
 ## Hi, I'm Zeeshan Ahmed 👋
 
 🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in MERN<br>
