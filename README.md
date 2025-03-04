@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=zshan10&theme=gotham)
 
 ### 📈 Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/mwarsi2784?theme=dark&font=Montserrat&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/7jwt5vvU6X?theme=dark&font=Montserrat&ext=contest)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
