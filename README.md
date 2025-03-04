@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zShan98&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&card_width=495&access_token=MY_GITHUB_TOKEN)
 
 ### 📈 Codeforces Stats:
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mwarsi2784&theme=gotham)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=zshan10&theme=gotham)
 
 ### 📈 Leetcode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mwarsi2784?theme=dark&font=Montserrat&ext=contest)
