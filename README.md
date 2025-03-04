@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **zShan98/zshan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Zeeshan Ahmed 👋
+## Hi, I'm Zeeshan Ahmed 👋
 
 🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in MERN<br>
 
