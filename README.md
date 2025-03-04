@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Microsoft Dataverse" src="https://img.shields.io/badge/Microsoft%20Dataverse-0078D4?style=flat-square&logo=dataverse&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 ### 🔧 Tools:
