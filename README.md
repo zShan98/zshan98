@@ -12,17 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<p>
+<a href="https://www.linkedin.com/in/zshan10" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abbbdullah" height="30" width="30" /></a>
+</p>
 ## Hi, I'm Zeeshan Ahmed 👋
 
 🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in MERN<br>
 
 <br>
-<p align="center">
-<a href="https://www.linkedin.com/in/abbbdullah" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abbbdullah" height="30" width="30" /></a>
-</p>
-<br><br>
 ### 💻 Languages:
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
