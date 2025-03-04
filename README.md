@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
-  <a href="https://www.linkedin.com/in/zshan10" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abbbdullah" height="30" width="30" />
-</p>
     
 ## Hi, I'm Zeeshan Ahmed 👋
 
