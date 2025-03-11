@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in MERN<br>
 
-### 💻 Languages:
+### Languages:
 <p>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://memorialu.gitlab.io/Engineering/ECE/Teaching/operating-systems/website/reference/x86/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/color/40/assembly.png" alt="assembly"/></a>
 </p>
 
-### 🌍 Technologies:
+### Technologies:
 <p>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img alt="Node.js" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node js" width="80" height="40"/></a>
@@ -38,7 +37,7 @@ Here are some ideas to get you started:
 <a href="https://learn.microsoft.com/en-us/power-apps/" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/fluency/40/microsoft-power-automate-2020.png" alt="microsoft-power-automate"/></a>
 </p>
 
-### 🛢 Databases:
+### Databases:
 <p>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
@@ -48,7 +47,7 @@ Here are some ideas to get you started:
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/></a>
 </p>
 
-### 🔧 Tools:
+### Tools:
 <p>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -57,16 +56,8 @@ Here are some ideas to get you started:
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zShan98&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&card_width=495)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=gotham&hide_border=false&card_width=495)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zShan98&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&card_width=495&access_token=MY_GITHUB_TOKEN)
-
-### 📈 Codeforces Stats:
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=zshan10&theme=gotham)
-
-### 📈 Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/zshan98?theme=dark&font=Montserrat&ext=contest)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
