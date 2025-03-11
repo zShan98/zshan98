@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=gotham&hide_border=false&card_width=495)<br/>    
 
 
