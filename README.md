@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
     
 ## Hi, I'm Zeeshan Ahmed 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!I'm Zeeshan Ahmed 👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in MERN<br>
 
 ### Languages:
@@ -58,8 +56,10 @@ Here are some ideas to get you started:
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
 
+<br>
+<p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=gotham&hide_border=false&card_width=495)<br/>    
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=gotham&hide_border=false&card_width=495)<br/>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
