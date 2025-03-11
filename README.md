@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zshan98&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&access_token=MY_GITHUB_TOKEN)
 
 <a href="https://github.com/zshan98/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zshan98" />
+  <img height=200 align="center" src="github-readme-streak-stats.herokuapp.com/api?username=zshan98" />
 </a>
 <a href="https://github.com/zshan98/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zshan98&layout=compact&langs_count=8&card_width=320" />
