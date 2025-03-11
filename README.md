@@ -55,9 +55,19 @@ Here are some ideas to get you started:
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
+<br>
+
+### Github:
+<br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=transparent&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zshan98&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&access_token=MY_GITHUB_TOKEN)
 
+<a href="https://github.com/zshan98/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zshan98" />
+</a>
+<a href="https://github.com/zshan98/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zshan98&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
