@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
     
 ## Hi, I'm Zeeshan Ahmed 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!I'm Zeeshan Ahmed 👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in MERN<br>
 
 ### Languages:
