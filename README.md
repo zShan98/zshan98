@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=transparent&hide_border=false&card_width=495) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zshan98&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&card_width=495&access_token=MY_GITHUB_TOKEN)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=transparent&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zshan98&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&access_token=MY_GITHUB_TOKEN)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
