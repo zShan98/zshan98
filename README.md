@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
 
-<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=gotham&hide_border=false&card_width=495)<br/>    
 
 
