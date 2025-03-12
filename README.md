@@ -63,10 +63,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=transparent&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zshan98&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&access_token=MY_GITHUB_TOKEN)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zShan98&theme=transparent&&card_width=320&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zshan98&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=320&cache_seconds=1800&access_token=MY_GITHUB_TOKEN" alt="Top Languages" />
-</p>
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
