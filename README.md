@@ -15,7 +15,7 @@ Here are some ideas to get you started:
     
 ## Hi, I'm Zeeshan Ahmed 👋
 
-🔭 I’m currently working on my Final Year Project (FYP) related to Computer Vision<br>🌱 I’m currently learning React.js and seeking to complete my stack in MERN<br>
+🔭 I’m currently working on my Final Year Project (FYP) related to Data Science Computer Vision<br>🌱 I’m currently learning backend development and seeking to complete my stack in MERN<br>
 
 ### Languages:
 <p>
