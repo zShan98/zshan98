@@ -64,5 +64,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zshan98&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&access_token=MY_GITHUB_TOKEN)
 
 ### 📈 Leetcode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/zshan98?theme=dark&font=Montserrat&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/zshan98?theme=transparent&font=Montserrat&ext=contest)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
